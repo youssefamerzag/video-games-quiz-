@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+#title {
+    font-size: 40px;
+}
+
+#quiz {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#quizs {
+    font-size: 30px;
+}
+
+#answer {
+    color: aliceblue;
+    margin: 10px;
+    padding: 10px 50px 10px 50px;
+    background: none;
+    border: none;
+    font-size: 20px;
+    transition: 0.2s;
+}
+
+#answer:hover {
+    background-color: blueviolet;
+
+}
+
+#answers {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+
+#score {
+    margin-top: 200px;
+    font-size: 30px;
+    padding-bottom: 180px;
+}
+
+#user {
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
