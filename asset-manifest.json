@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/video-games-quiz-/static/css/main.445c7a69.css",
+    "main.js": "/video-games-quiz-/static/js/main.564d2707.js",
+    "index.html": "/video-games-quiz-/index.html",
+    "main.445c7a69.css.map": "/video-games-quiz-/static/css/main.445c7a69.css.map",
+    "main.564d2707.js.map": "/video-games-quiz-/static/js/main.564d2707.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445c7a69.css",
+    "static/js/main.564d2707.js"
+  ]
+}
